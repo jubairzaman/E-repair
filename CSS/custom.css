@@ -1,0 +1,73 @@
+/*change Brand Name Fony */
+.navbar-brand{
+font-family: 'Ubuntu' , sans-serif ;
+    font-size: 2em ;
+    font-weight: bolder;
+}
+
+
+/* change Navigation color */
+.navbar #myMenu .custom-nav .nav-item a{
+    color:  #F0aab1;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover{
+    color: #fff ;
+}
+/* make image responsive*/
+.back-image {
+    background-size: cover ;
+    background-position: center center ;
+    background-repeat: no-repeat ;
+    min-height: 90vh ;
+    border-radius: 0px ;
+    margin-top: 74px;
+}
+/*header image */
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 30px;
+    padding: 80px;
+}
+p {
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 2px ;
+    margin-bottom: 10px ;
+}
+/* header button */
+
+.btn {
+     margin-top:20px;
+   margin-left: 90px;
+    margin-right: 1px ;
+   
+}
+/*intoduction para */
+.container{
+    /*background-size: cover;
+     background-color: skyblue;*/
+    margin-top: 25px;
+    padding : 25px ;
+    text-align: justify;
+   }
+.block {
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  font: bold ;
+  text-align: center;
+}
+
+
+/*footer icon 
+.fi-color{
+    color: #dc3545 ;
+}
+.fi-color hover{
+    color: white;
+}*/
